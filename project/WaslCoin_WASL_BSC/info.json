@@ -1,0 +1,13 @@
+{
+  "name": "WaslCoin",
+  "symbol": "WASL",
+  "chain": "BSC",
+  "decimals": 18,
+  "contract_address": "0xF7ac60B4d08598bbDe3C364e7e04A87804de865D",
+  "total_supply": 5000,
+  "description": "Digital Gold for Global Impact – A charity-driven scarce token with only 5000 supply.",
+  "website": "https://waslcoin.carrd.co/",
+  "twitter": "https://x.com/WaslCoin",
+  "telegram": "https://t.me/WaslCoin",
+  "explorer": "https://bscscan.com/token/0xF7ac60B4d08598bbDe3C364e7e04A87804de865D"
+}
